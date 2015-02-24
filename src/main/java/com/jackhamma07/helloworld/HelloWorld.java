@@ -1,7 +1,7 @@
 package com.jackhamma07.helloworld;
 
-import cpw.mods.fml.common.Mod;
+import net.minecraftforge.fml.common.Mod;
 
-@Mod(modid = "HelloWorld", name = "Hello World", version = "1.7.2-1.0")
+@Mod(modid = "HelloWorld", name = "Hello World", version = "1.8-1.0")
 public class HelloWorld {
 }
